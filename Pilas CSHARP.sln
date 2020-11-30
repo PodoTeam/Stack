@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pilas CSHARP", "Pilas CSHARP\Pilas CSHARP.csproj", "{C0F74C00-3CF0-432D-8EA4-615D668045C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F74C00-3CF0-432D-8EA4-615D668045C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F74C00-3CF0-432D-8EA4-615D668045C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F74C00-3CF0-432D-8EA4-615D668045C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F74C00-3CF0-432D-8EA4-615D668045C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE90B3E-933E-4270-8027-0C5E95CC9DA3}
+	EndGlobalSection
+EndGlobal
